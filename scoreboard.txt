@@ -1,0 +1,6 @@
+Eligh	1	0	0
+mariano	0	0	1
+santi	0	0	1
+Shelby	0	1	0
+Leo	0	0	1
+Bryan	0	0	1
