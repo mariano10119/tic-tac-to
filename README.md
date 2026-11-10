@@ -8,10 +8,14 @@ HOW TO RUN:
 3. Run the program
 
 HOW TO PLAY
-1. Decide who is X and who is O
-2. Player X and O alternate turns
-3. First with 3 in a row wins
+1. Select option 1 to start game
+2. Enter names of players X and O
+3. Player x goes first and picks number between 1-9
+4. Player X and O alternate turns
+5. First with 3 in a row wins
+6. Option 2 main menu to view scoreboard
+7. option 3 closes game
 
 HOW WE SAVED SCORES
 
-The player automatically saves Player X wins, PLAYER O wins, draws in a file we have named scores.txt.The file stores three numbers in that order like 3,2,1.The scores are loaded again when the program restarts.
+The program automatically saves each players name, wins as X, wins as O, and the total number of draws in a text file called scores.txtThe first line stores the total number of draws.Each line after that stores a players wins as X, wins as O, and their name
